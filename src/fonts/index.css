@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'IRANSANSWEB';
+  font-weight: 500;
+  font-style: normal;
+  src: local('IRANSANSWEB'), url('./IRANSansWeb_Light.ttf') format('truetype');
+}
+
+* {
+  font-family: 'IRANSANSWEB';
+}
+
+body {
+  font-family: 'IRANSANSWEB';
+}
